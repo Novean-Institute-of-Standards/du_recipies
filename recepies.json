@@ -8694,7 +8694,7 @@
     "time": 300,
     "byproducts": {},
     "industries": ["Nanopack", "Assembly Line S"],
-    "input": { "Biologic Matter": 7, "Basic Fixation": 6, "Basic Casing S": 1 }
+    "input": { "Biological Matter": 7, "Basic Fixation": 6, "Basic Casing S": 1 }
   },
   "Plant Case B": {
     "name": "Plant Case B",
@@ -8706,7 +8706,7 @@
     "time": 60,
     "byproducts": {},
     "industries": ["Nanopack", "Assembly Line XS"],
-    "input": { "Biologic Matter": 1, "Basic Fixation": 1, "Basic Casing XS": 1 }
+    "input": { "Biological Matter": 1, "Basic Fixation": 1, "Basic Casing XS": 1 }
   },
   "Plant Case C": {
     "name": "Plant Case C",
@@ -8718,7 +8718,7 @@
     "time": 60,
     "byproducts": {},
     "industries": ["Nanopack", "Assembly Line XS"],
-    "input": { "Biologic Matter": 1, "Basic Fixation": 1, "Basic Casing XS": 1 }
+    "input": { "Biological Matter": 1, "Basic Fixation": 1, "Basic Casing XS": 1 }
   },
   "Plant Case D": {
     "name": "Plant Case D",
@@ -8730,7 +8730,7 @@
     "time": 60,
     "byproducts": {},
     "industries": ["Nanopack", "Assembly Line XS"],
-    "input": { "Biologic Matter": 1, "Basic Fixation": 1, "Basic Casing XS": 1 }
+    "input": { "Biological Matter": 1, "Basic Fixation": 1, "Basic Casing XS": 1 }
   },
   "Plant Case E": {
     "name": "Plant Case E",
@@ -8742,7 +8742,7 @@
     "time": 60,
     "byproducts": {},
     "industries": ["Nanopack", "Assembly Line XS"],
-    "input": { "Biologic Matter": 1, "Basic Fixation": 1, "Basic Casing XS": 1 }
+    "input": { "Biological Matter": 1, "Basic Fixation": 1, "Basic Casing XS": 1 }
   },
   "Suspended Fruit Plant": {
     "name": "Suspended Fruit Plant",
@@ -8754,7 +8754,7 @@
     "time": 60,
     "byproducts": {},
     "industries": ["Nanopack", "Assembly Line XS"],
-    "input": { "Biologic Matter": 1, "Basic Fixation": 1, "Basic Casing XS": 1 }
+    "input": { "Biological Matter": 1, "Basic Fixation": 1, "Basic Casing XS": 1 }
   },
   "Suspended Plant A": {
     "name": "Suspended Plant A",
@@ -8766,7 +8766,7 @@
     "time": 60,
     "byproducts": {},
     "industries": ["Nanopack", "Assembly Line XS"],
-    "input": { "Biologic Matter": 1, "Basic Fixation": 1, "Basic Casing XS": 1 }
+    "input": { "Biological Matter": 1, "Basic Fixation": 1, "Basic Casing XS": 1 }
   },
   "Suspended Plant B": {
     "name": "Suspended Plant B",
@@ -8778,7 +8778,7 @@
     "time": 60,
     "byproducts": {},
     "industries": ["Nanopack", "Assembly Line XS"],
-    "input": { "Biologic Matter": 1, "Basic Fixation": 1, "Basic Casing XS": 1 }
+    "input": { "Biological Matter": 1, "Basic Fixation": 1, "Basic Casing XS": 1 }
   },
   "Bagged Plant A": {
     "name": "Bagged Plant A",
@@ -8790,7 +8790,7 @@
     "time": 60,
     "byproducts": {},
     "industries": ["Nanopack", "Assembly Line XS"],
-    "input": { "Biologic Matter": 1, "Basic Fixation": 1, "Basic Casing XS": 1 }
+    "input": { "Biological Matter": 1, "Basic Fixation": 1, "Basic Casing XS": 1 }
   },
   "Bagged Plant B": {
     "name": "Bagged Plant B",
@@ -8802,7 +8802,7 @@
     "time": 60,
     "byproducts": {},
     "industries": ["Nanopack", "Assembly Line XS"],
-    "input": { "Biologic Matter": 1, "Basic Fixation": 1, "Basic Casing XS": 1 }
+    "input": { "Biological Matter": 1, "Basic Fixation": 1, "Basic Casing XS": 1 }
   },
   "Plant": {
     "name": "Plant",
@@ -8814,7 +8814,7 @@
     "time": 60,
     "byproducts": {},
     "industries": ["Nanopack", "Assembly Line XS"],
-    "input": { "Biologic Matter": 1, "Basic Fixation": 1, "Basic Casing XS": 1 }
+    "input": { "Biological Matter": 1, "Basic Fixation": 1, "Basic Casing XS": 1 }
   },
   "Bonsai": {
     "name": "Bonsai",
