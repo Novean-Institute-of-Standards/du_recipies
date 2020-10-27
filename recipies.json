@@ -3203,7 +3203,7 @@
     "time": 4860,
     "byproducts": {},
     "industries": ["Metalwork Industry M"],
-    "input": { "Steel": 2401, "Basic Connector": 625, "Basic Magnet": 625 }
+    "input": { "Steel": 2401, "Basic Connector": 625 }
   },
   "Uncommon Ionic Chamber XS": {
     "name": "Uncommon Ionic Chamber XS",
